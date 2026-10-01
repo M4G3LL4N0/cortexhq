@@ -17,9 +17,8 @@ export default function DemoPage() {
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cyan-300/80">Interactive demo</p>
         <h1 className="text-3xl font-semibold tracking-tight text-white sm:text-4xl">Ask the Company Brain</h1>
         <p className="max-w-2xl text-sm leading-relaxed text-slate-400 sm:text-base">
-          CortexHQ connects evidence across Slack, docs, meetings, GitHub, CRM, and support. This page runs entirely on
-          local mock logic — no paid APIs — so you can feel how answers, sources, and contradictions should line up in a
-          production deployment.
+          Ask a question of a prepared company. CortexHQ answers from the sources you leave connected — Slack, docs,
+          meetings, GitHub, CRM, and support — and shows where those records disagree.
         </p>
         <div className="flex flex-wrap gap-3 text-sm">
           <Link href="/dashboard" className="text-cyan-400 hover:underline">
