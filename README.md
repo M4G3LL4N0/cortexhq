@@ -1,5 +1,3 @@
-# Cortexhq
-
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/hero-reduced.svg">
@@ -7,46 +5,24 @@
     <img src="assets/hero/hero-motion.svg" alt="CortexHQ — animated project plate showing capital &rarr; allocate &rarr; mark &rarr; settle. Motion depicts this project's real state transition." width="100%">
   </picture>
 </p>
+# Cortexhq
+**STATUS: LAUNCH-SITE SCAFFOLD**
+This repository is a launch site, not a product. It has no product surface yet.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/computational-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero/computational-light.svg">
-    <img src="assets/hero/computational-motion.svg" alt="State machine: capital &rarr; allocate &rarr; mark &rarr; settle." width="100%">
-  </picture>
-</p>
+That is stated plainly rather than dressed up. A scaffold described as a platform wastes the reader's time; a scaffold described as a scaffold lets them decide whether to keep looking.
 
-**STATUS: EXPERIMENTAL**
-
-Startup portfolio: cortexhq
-
-## Why it exists
-
-> Nothing in this table is inferred. Where a value could not be read from the repository it says so.
-
-## What is in it
+## Status
 
 | | |
 | --- | --- |
-| Source files | 87 |
-| Test files | 0 |
-| Documentation files | 4 |
-| CI workflows | 0 |
-| Build manifest | package.json |
+| Product surface | none |
+| Tests | none |
+| CI | none |
+| Documentation | this file |
 
-Observed: 87 source file(s); build via `package.json`.
+## Why it exists
 
-## Build and run
-
-```bash
-pnpm install
-pnpm build
-pnpm test
-```
-
-## Evidence
-
-Counts above are counted from the repository tree, not asserted. Where a value could not be measured it is omitted rather than estimated.
+Every venture in this portfolio has a public entry point. Where the product is not ready to ship, the entry point is marked as a scaffold rather than filled with claims it cannot support. This repository will be replaced by real content when there is something real to show.
 
 ---
 
